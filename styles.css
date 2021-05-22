@@ -103,7 +103,7 @@
 
 
 /* mobile view */
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 600px) {
 
 
     body{
@@ -209,6 +209,7 @@
        width: 2rem;
 
    }
+
 
 
 }
